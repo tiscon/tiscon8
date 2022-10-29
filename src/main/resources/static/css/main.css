@@ -8,7 +8,7 @@ body {
 
 .jumbotron {
     height: 40vh;
-    background-image: url("../img/top.jpg");
+    background-image: url("../img/top.webp");
     background-position:left 0 top 80%;
     background-size: cover;
     background-repeat: no-repeat;
