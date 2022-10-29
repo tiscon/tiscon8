@@ -4,8 +4,7 @@
 # and commit this file to your remote git repository to share the goodness with others.
 
 tasks:
-  - init: ./mvnw install -DskipTests=false
-  - command: ./mvnw spring-boot:run
+  - init: ./mvnw compile
 vscode:
   extensions:
     - vscjava.vscode-java-pack
