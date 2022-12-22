@@ -5,7 +5,9 @@
 
 image: gitpod/workspace-full:2022-10-25-06-57-58
 tasks:
-  - init: ./mvnw compile
+  - init:
+      ./mvnw compile
+      git config pull.rebase false
 vscode:
   extensions:
     - vscjava.vscode-java-pack
