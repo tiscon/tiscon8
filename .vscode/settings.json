@@ -5,6 +5,7 @@
       "path": "/home/gitpod/.sdkman/candidates/java/11.0.16.fx-zulu/",
       "default":  true
     }
-  ]
+  ],
+  "editor.inlayHints.enabled": "off"
 
 }
